@@ -1,5 +1,5 @@
 {
-  "name": "es-la-d-de-davo",
+  "name": "gatitos",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,20 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Carlos456-o/es-la-d-de-davo.git"
+    "url": "git+https://github.com/VilyVargas/Gatitos.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Carlos456-o/es-la-d-de-davo/issues"
+    "url": "https://github.com/VilyVargas/Gatitos/issues"
   },
-  "homepage": "https://github.com/Carlos456-o/es-la-d-de-davo#readme",
+  "homepage": "https://github.com/VilyVargas/Gatitos#readme",
   "dependencies": {
     "@supabase/supabase-js": "^2.112.3",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
+    "exceljs": "^4.4.0",
     "express": "^5.2.1",
     "firebase-admin": "^14.2.0",
     "multer": "^2.2.0"
